@@ -13,7 +13,6 @@
  - Passing Event Arguments
  - Passing Data to Components
  - Passing Children
- - Passing Children
  - Props vs State
  - Multiple Components in Sync
  - Destructuring Arguments
